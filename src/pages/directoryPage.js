@@ -7,7 +7,7 @@ screens: {
       sm: "641px",
       md: "769px",
       lg: "1025px",
-      xl: "1281px",
+      xl: "1281px",  
     }
 */
 export default function DirectoryPage() {
